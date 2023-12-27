@@ -1,9 +1,11 @@
 var initialBooks = [
-  { title: "The Great Gatsby", author: "F. Scott Fitzgerald", price: 15.99 },
-  { title: "To Kill a Mockingbird", author: "Harper Lee", price: 12.99 },
-  { title: "1984", author: "George Orwell", price: 10.99 },
   { title: "Pride and Prejudice", author: "Jane Austen", price: 14.99 },
   { title: "The Catcher in the Rye", author: "J.D. Salinger", price: 11.99 },
+  { title: "One Hundred Years of Solitude", author: "Gabriel Garcia Marquez", price: 13.99 },
+{ title: "The Lord of the Rings", author: "J.R.R. Tolkien", price: 18.99 },
+{ title: "Moby-Dick", author: "Herman Melville", price: 16.99 },
+{ title: "The Hobbit", author: "J.R.R. Tolkien", price: 9.99 },
+{ title: "The Great Expectations", author: "Charles Dickens", price: 12.99 },
 ];
 
 function populateInitialBooks() {
